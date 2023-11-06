@@ -1,0 +1,170 @@
+@media screen and (max-width: 767px) {
+  #s-logo img {
+    height: 50px;
+  }
+  div#s-logo h1 {
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 0px;
+  }
+  div#s-logo h5 {
+    font-size: 11px;
+  }
+  nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding: 10px 0px !important;
+  }
+  .firstone h1 {
+    font-size: 36px;
+  }
+  .firstone h5 {
+    font-size: 22px;
+    line-height: 2 !important;
+  }
+  .firstone {
+    padding-top: 100px;
+  }
+
+  .firstone .movingicon {
+    height: 32vh;
+  }
+  #about {
+    padding-top: 40px;
+    margin: 0 15px;
+  }
+  #about-details {
+    display: inline-block;
+  }
+  #about-details .col-5,
+  #about-details .col-7 {
+    width: 100%;
+  }
+  div#workflow-details {
+    display: inline-block;
+    padding-top: 0px;
+  }
+  div#workflow-details .col-5,
+  div#workflow-details .col-7 {
+    width: 100%;
+  }
+  div#workflow-details .col-5 {
+    padding-bottom: 15px;
+    padding-top: 0px !important;
+  }
+  #workflow-details ul li:nth-child(odd),
+  #workflow-details ul li:nth-child(even) {
+    font-size: 14px;
+  }
+  div#workflow-details h2:after {
+    top: 16px;
+    right: -2px;
+  }
+  #skill {
+    margin: 50px 20px 65px;
+    padding-top: 34px;
+  }
+  #skill h2 {
+    font-size: 36px;
+  }
+  #skill h3 {
+    font-size: 26px;
+    padding-left: 15px;
+    margin-bottom: 25px;
+  }
+  #skill h6 {
+    padding-left: 15px;
+    margin-top: 0px;
+  }
+  div#skill-mb .col-2 {
+    width: 39%;
+  }
+  div#exper-details .col-4 {
+    width: 49.333333%;
+  }
+  div#footer-menu {
+    display: none;
+  }
+  .col-8.right-footer {
+    width: 100%;
+    padding-top: 20px;
+  }
+  .col-4.left-footer {
+    width: 100%;
+    position: relative;
+  }
+  #fotter h2 {
+    font-size: 23px;
+  }
+  div#footer-bottom .col-4 {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #fotter {
+    padding: 25px 10px;
+  }
+  .social-icon i {
+    margin-right: 30px;
+  }
+  .accordion-item {
+    margin: 0 20px 30px;
+  }
+  div#accordionExample {
+    margin-top: 40px;
+    /* padding-bottom: 30px; */
+  }
+  #company-details h3 {
+    font-size: 34px;
+    padding-top: 0 !important;
+  }
+  #place-details {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .accordion-body {
+    padding: 1.4rem 1.25rem !important;
+  }
+  #place-details a {
+    font-size: 20px;
+  }
+  #c-about img {
+    display: none;
+  }
+  div#c-about p {
+    padding-right: 0 !important;
+    font-size: 15px;
+  }
+  #skillbtn {
+    padding-left: 0;
+    justify-content: center;
+  }
+  #accordian-title {
+    padding-right: 10px;
+  }
+  #company-details {
+    padding-bottom: 35px;
+  }
+  #fotter h3 {
+    line-height: 2 !important;
+    padding-top: 5px;
+  }
+  #svg img {
+    width: 90%;
+  }
+  .col-4.left-footer div#s-logo {
+    position: absolute;
+    top: 2px;
+    left: 0;
+  }
+  div#skill-img {
+    gap: 0px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  #c-about img {
+    width: 20%;
+    margin-left: 5%;
+  }
+}
